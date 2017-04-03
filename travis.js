@@ -26,7 +26,7 @@ console.log(`Git commit: ${gitCommitHash}`);
 console.log('Calling Travis...');
 
 
-got.post(`https://api.travis-ci.org/repo/mappinghub/views`, {
+got.post(`https://api.travis-ci.org/repo/mappinghub%2Fviews/requests`, {
   headers: {
     "Content-Type": "application/json",
     "Accept": "application/json",
@@ -36,7 +36,7 @@ got.post(`https://api.travis-ci.org/repo/mappinghub/views`, {
   body: JSON.stringify({
     request: {
       message: `Trigger build at mappinghub/views commit: ${gitCommitHash}`,
-      branch: 'source',
+      branch: 'master',
     },
   }),
 })
