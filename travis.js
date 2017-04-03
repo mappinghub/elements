@@ -1,3 +1,5 @@
+// consider using https://github.com/patrickkettner/travis-ping instead..
+
 "use strict";
 
 const shell = require('shelljs'),
@@ -6,9 +8,9 @@ const shell = require('shelljs'),
 
 
 console.log(`Fetching Git commit hash...`);
-
+console.log( path.join(__dirname, '.'));
 const gitCommitRet = shell.exec('git rev-parse HEAD', {
-  cwd: path.join(__dirname, '..')
+  cwd: path.join(__dirname, '.')
 });
 
 if (0 !== gitCommitRet.code) {
