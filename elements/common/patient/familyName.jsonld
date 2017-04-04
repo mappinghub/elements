@@ -1,7 +1,8 @@
 {
-  "id": "130b736a-166e-11e7-93ae-92361f002671",
-  "name": "givenName",
-  "description": "Given name of a person",
+  "@context": "https://raw.githubusercontent.com/mappinghub/elements/master/ont/context.jsonld",
+  "id": "01c391fa-4421-42ef-9b18-a262c83dcd01",
+  "name": "familyName",
+  "description": "Family name of a person",
   "type": "xsd:string",
   "mdmi:clinicalAdminActivity":
                { "name": "PatientInfo",
@@ -15,5 +16,5 @@
                { "name": "foo",
                  "property": "bar", 
                  "qualifier": "baz"},
-  "skos:exactMatch": "fhir:datatypes-definitions.html#HumanName.given"
+  "skos:exactMatch": "fhir:datatypes-definitions.html#HumanName.family"
 }

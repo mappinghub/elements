@@ -1,4 +1,5 @@
 {
+  "@context": "https://raw.githubusercontent.com/mappinghub/elements/master/ont/context.jsonld",
   "id": "d7128162-166f-11e7-93ae-92361f002671",
   "name": "fullName",
   "description": "Full name of a person, in the form 'FamilyName,GivenName'.",
