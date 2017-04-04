@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "@vocab": "https://github.com/mappinghub/elements/ont/",
+        "mdmi": "https://github.com/mappinghub/elements/ont/mdmi/",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "fhir": "http://hl7.org/fhir/"
+    }
+}
