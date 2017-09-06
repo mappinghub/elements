@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Military_Theater_Of_Operations-8136",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Military_Theater_Of_Operations-8136 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Military_Theater_Of_Operations-8136.htm"
+}

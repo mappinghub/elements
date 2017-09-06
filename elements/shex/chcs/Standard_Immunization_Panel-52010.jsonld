@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Standard_Immunization_Panel-52010",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Standard_Immunization_Panel-52010 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Standard_Immunization_Panel-52010.htm"
+}

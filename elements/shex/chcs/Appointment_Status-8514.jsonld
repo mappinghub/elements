@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Appointment_Status-8514",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema is a list of possible appointment statuses, e.g., kept, cancel, no-show, etc.",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Appointment_Status-8514.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Appointment_Status-8514.jsonld"
+}

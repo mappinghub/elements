@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Notify_Messages-8059",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Notify_Messages-8059 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Notify_Messages-8059.htm"
+}

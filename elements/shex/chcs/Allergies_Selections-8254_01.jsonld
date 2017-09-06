@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Allergies_Selections-8254_01",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains all the allergy classes, brand names, generic names, and ingredients for allergy selection",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Allergies_Selections-8254_01.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Allergies_Selections-8254_01.jsonld"
+}

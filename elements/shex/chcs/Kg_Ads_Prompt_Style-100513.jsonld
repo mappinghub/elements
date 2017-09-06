@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Kg_Ads_Prompt_Style-100513",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Kg_Ads_Prompt_Style-100513 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kg_Ads_Prompt_Style-100513.htm"
+}

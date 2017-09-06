@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Psychiatric_Personnel_Req-105_42",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Psychiatric_Personnel_Req-105_42 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Psychiatric_Personnel_Req-105_42.htm"
+}

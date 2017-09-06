@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Anesthesia_Risk_Codes-8149",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains standard anesthesia risk codes.",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Anesthesia_Risk_Codes-8149.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Anesthesia_Risk_Codes-8149.jsonld"
+}

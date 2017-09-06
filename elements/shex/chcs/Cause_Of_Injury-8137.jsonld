@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Cause_Of_Injury-8137",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains codes and descriptions for injuries. Specifically, it defines the type of injury sustained by the patient",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cause_Of_Injury-8137.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Cause_Of_Injury-8137.jsonld"
+}

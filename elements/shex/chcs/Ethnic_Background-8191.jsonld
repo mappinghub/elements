@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Ethnic_Background-8191",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains a list of codes and descriptions for the patient's ethnic background",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ethnic_Background-8191.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Ethnic_Background-8191.jsonld"
+}

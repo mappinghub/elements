@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Allergies_Definitions-8254_011",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+    "description": "The data in this schema provides the actual definitions used by the system to do clinical screening",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Allergies_Definitions-8254_011.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Allergies_Definitions-8254_011.jsonld"
+}

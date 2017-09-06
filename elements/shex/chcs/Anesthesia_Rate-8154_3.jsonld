@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Anesthesia_Rate-8154_3",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema represents the standard DOD (Group 1) file which is sent fully populated to the sites, with annual updates; it contains a flat rate for each Anesthesia CPT code",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Anesthesia_Rate-8154_3.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Anesthesia_Rate-8154_3.jsonld"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Apv_Appointment-44_3",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains the Ambulatory Procedure Visit (APV) appointment record used to link APV activity in order entry to appointment and ADM data",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Apv_Appointment-44_3.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Apv_Appointment-44_3.jsonld"
+}

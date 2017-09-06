@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Psafdb_Adimmstr_Adimtbl_Adimmono-8253_01",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Psafdb_Adimmstr_Adimtbl_Adimmono-8253_01 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Psafdb_Adimmstr_Adimtbl_Adimmono-8253_01.htm"
+}

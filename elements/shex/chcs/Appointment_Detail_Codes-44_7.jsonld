@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Appointment_Detail_Codes-44_7",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+    "description": "The data stored in this schema contains detail codes that are used for Appt Type Standardization",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Appointment_Detail_Codes-44_7.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Appointment_Detail_Codes-44_7.jsonld"
+}

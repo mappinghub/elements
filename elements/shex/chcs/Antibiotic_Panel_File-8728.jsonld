@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Antibiotic_Panel_File-8728",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains all the user defined antibiotic panel configurations; antibiotic panels are used to determine the specific antibiotics that will be reported by organism identification and/or Site/Specimen",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Antibiotic_Panel_File-8728.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Antibiotic_Panel_File-8728.jsonld"
+}

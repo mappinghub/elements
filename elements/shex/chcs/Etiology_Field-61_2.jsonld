@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Etiology_Field-61_2",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema describes the underlying cause of a disease process and an individual's method of acquiring the disease",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Etiology_Field-61_2.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Etiology_Field-61_2.jsonld"
+}

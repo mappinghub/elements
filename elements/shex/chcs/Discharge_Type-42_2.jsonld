@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Discharge_Type-42_2",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains a table of codes and descriptions for the various disposition types available for an inpatient at a Medical Treatment Facility (MTF)",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Discharge_Type-42_2.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Discharge_Type-42_2.jsonld"
+}

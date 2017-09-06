@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Ancillary_Tracking-39_9",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema holds the ancillary three character code and its description",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ancillary_Tracking-39_9.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Ancillary_Tracking-39_9.jsonld"
+}

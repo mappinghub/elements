@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Fdb_Dam_Cross_Sensitivity_Allergy-8253_05",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains the definition of DAM Cross Sensitivity Allergy Codes",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fdb_Dam_Cross_Sensitivity_Allergy-8253_05.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Fdb_Dam_Cross_Sensitivity_Allergy-8253_05.jsonld"
+}

@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Pharmacy_Action-59_6",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains the pharmacy actions that may be taken based on IV action profile",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Action-59_6.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Pharmacy_Action-59_6.jsonld"
+}

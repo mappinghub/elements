@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Branch_Of_Service-23",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains a table of military and government services, e.g., air force, foreign military, US public health service, etc.",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Branch_Of_Service-23.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Branch_Of_Service-23.jsonld"
+}

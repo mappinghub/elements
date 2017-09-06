@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Absent_Status-8131",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema defines the list of all absent status designations",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Absent_Status-8131.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Absent_Status-8131.jsonld"
+}

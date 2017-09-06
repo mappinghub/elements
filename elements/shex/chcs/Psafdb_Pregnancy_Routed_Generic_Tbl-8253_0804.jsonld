@@ -1,0 +1,10 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Psafdb_Pregnancy_Routed_Generic_Tbl-8253_0804",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+   }
+  "description": "CHCS Psafdb_Pregnancy_Routed_Generic_Tbl-8253_0804 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Psafdb_Pregnancy_Routed_Generic_Tbl-8253_0804.htm"
+}

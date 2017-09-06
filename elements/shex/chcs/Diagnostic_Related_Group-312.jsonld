@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Diagnostic_Related_Group-312",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema defines the groups of related drugs",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Diagnostic_Related_Group-312.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Diagnostic_Related_Group-312.jsonld"
+}

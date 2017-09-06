@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Ned_Hcdp_Coverage_Code-8545",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains the National Enrollment Database Health Care Delivery Program Coverage Codes",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ned_Hcdp_Coverage_Code-8545.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Ned_Hcdp_Coverage_Code-8545.jsonld"
+}

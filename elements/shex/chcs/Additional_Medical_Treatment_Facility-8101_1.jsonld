@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Additional_Medical_Treatment_Facility-8101_1",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": "The data stored in this schema contains Medical Treatment Facility (MTF) entries that are not part of the standard set of entries (Group 3).",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Additional_Medical_Treatment_Facility-8101_1.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Additional_Medical_Treatment_Facility-8101_1.jsonld"
+}

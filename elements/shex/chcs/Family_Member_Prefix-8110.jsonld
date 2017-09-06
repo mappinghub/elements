@@ -1,0 +1,11 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Family_Member_Prefix-8110",
+  "author": {
+      "name": "Glenna Mayo",
+      "email": "glenna.hokukahu@gmail.com"
+  },
+  "description": ""The data stored in this schema contains a table of codes and descriptions for all family member prefixes",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Family_Member_Prefix-8110.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Family_Member_Prefix-8110.jsonld"
+}
