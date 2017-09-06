@@ -1,9 +1,10 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Conversion_Tracking-8175",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
-   "description": "CHCS Conversion_Tracking-8175 element",
+   "description": "a log of the various conversion routines which the site has already installed",
    "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Conversion_Tracking-8175.htm"
 }

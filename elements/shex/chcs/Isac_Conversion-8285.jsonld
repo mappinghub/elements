@@ -1,9 +1,10 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Isac_Conversion-8285",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
-  "description": "CHCS Isac_Conversion-8285 element",
+  "description": "Data tracking and monitoring the status of conversions",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Isac_Conversion-8285.htm"
 }

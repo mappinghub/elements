@@ -1,9 +1,10 @@
 {
   "@context": "https://raw.githubusercontent.com/mappinghub/mappings/master/ont/context.jsonld",
+  "name": "Policy_Sit_Conversion_History-8075",
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
-  "description": "CHCS Policy_Sit_Conversion_History-8075 element",
+  "description": "contains the history of SIT conversions, where policies (and their claims) are re-pointed to different insurance companies",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Policy_Sit_Conversion_History-8075.htm"
 }
