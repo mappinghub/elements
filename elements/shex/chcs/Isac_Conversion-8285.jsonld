@@ -3,5 +3,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
-},
+   },
+  "description": "CHCS Isac_Conversion-8285 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Isac_Conversion-8285.htm"
+}

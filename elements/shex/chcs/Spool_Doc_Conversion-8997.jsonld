@@ -3,5 +3,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
-},
+   },
+  "description": "CHCS Spool_Doc_Conversion-8997 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Spool_Doc_Conversion-8997.htm"
+}
