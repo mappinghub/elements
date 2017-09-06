@@ -3,5 +3,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
-},
+   },
+  "description": "This schema stores the external representation of a message",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Conversion_Qa_Messages-4090_4.htm"
+}
