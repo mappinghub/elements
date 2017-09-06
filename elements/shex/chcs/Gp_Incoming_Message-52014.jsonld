@@ -4,7 +4,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
+   },
   "description": "CHCS Gp_Incoming_Message-52014 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gp_Incoming_Message-52014.htm"
 }

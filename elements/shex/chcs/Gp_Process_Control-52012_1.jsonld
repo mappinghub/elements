@@ -4,7 +4,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
+   },
   "description": "CHCS Gp_Process_Control-52012_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gp_Process_Control-52012_1.htm"
 }

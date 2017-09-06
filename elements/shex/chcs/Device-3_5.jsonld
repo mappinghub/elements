@@ -4,7 +4,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
+   },
   "description": "CHCS Device-3_5 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Device-3_5.htm"
 }

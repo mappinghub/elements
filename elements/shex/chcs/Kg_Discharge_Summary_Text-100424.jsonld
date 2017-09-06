@@ -4,7 +4,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
+   },
   "description": "CHCS Kg_Discharge_Summary_Text-100424 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kg_Discharge_Summary_Text-100424.htm"
 }

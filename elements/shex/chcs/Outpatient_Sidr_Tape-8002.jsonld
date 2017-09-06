@@ -4,7 +4,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
+   },
   "description": "CHCS Outpatient_Sidr_Tape-8002 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Outpatient_Sidr_Tape-8002.htm"
 }

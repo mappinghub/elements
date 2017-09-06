@@ -4,7 +4,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
+   },
   "description": "CHCS Tpc_Vrb_Ins_Type_Dd2608_Rpt-8088 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Tpc_Vrb_Ins_Type_Dd2608_Rpt-8088.htm"
 }
