@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Patient_Category_Summary-8392",
   "description": "CHCS Patient_Category_Summary-8392 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Patient_Category_Summary-8392.htm"
 }

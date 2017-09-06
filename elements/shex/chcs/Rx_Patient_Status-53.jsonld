@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Rx_Patient_Status-53",
   "description": "CHCS Rx_Patient_Status-53 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Rx_Patient_Status-53.htm"
 }

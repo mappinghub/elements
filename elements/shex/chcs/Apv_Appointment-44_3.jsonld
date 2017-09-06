@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Apv_Appointment-44_3",
   "description": "The data stored in this schema contains the Ambulatory Procedure Visit (APV) appointment record used to link APV activity in order entry to appointment and ADM data",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Apv_Appointment-44_3.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Apv_Appointment-44_3.jsonld"

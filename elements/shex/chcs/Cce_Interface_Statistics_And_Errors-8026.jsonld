@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Cce_Interface_Statistics_And_Errors-8026",
   "description": "CHCS Cce_Interface_Statistics_And_Errors-8026 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cce_Interface_Statistics_And_Errors-8026.htm"
 }

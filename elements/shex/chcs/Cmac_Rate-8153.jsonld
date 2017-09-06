@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Cmac_Rate-8153",
   "description": "CHCS Cmac_Rate-8153 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cmac_Rate-8153.htm"
 }

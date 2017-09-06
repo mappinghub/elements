@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Nas_Data-8580",
   "description": "CHCS Nas_Data-8580 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Nas_Data-8580.htm"
 }

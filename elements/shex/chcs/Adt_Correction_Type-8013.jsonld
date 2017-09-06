@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Adt_Correction_Type-8013",
   "description": "CHCS Adt_Correction_Type-8013 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Adt_Correction_Type-8013.htm"
 }

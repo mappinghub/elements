@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Med_Surg_Personnel_Requirements-105_32",
   "description": "CHCS Med_Surg_Personnel_Requirements-105_32 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Med_Surg_Personnel_Requirements-105_32.htm"
 }

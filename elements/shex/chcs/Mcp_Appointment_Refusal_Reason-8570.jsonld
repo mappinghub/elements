@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcp_Appointment_Refusal_Reason-8570",
   "description": "CHCS Mcp_Appointment_Refusal_Reason-8570 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcp_Appointment_Refusal_Reason-8570.htm"
 }

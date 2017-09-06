@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Major_Diagnostic_Category-313",
   "description": "CHCS Major_Diagnostic_Category-313 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Major_Diagnostic_Category-313.htm"
 }

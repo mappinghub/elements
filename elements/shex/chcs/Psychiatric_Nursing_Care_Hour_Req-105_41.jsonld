@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Psychiatric_Nursing_Care_Hour_Req-105_41",
   "description": "CHCS Psychiatric_Nursing_Care_Hour_Req-105_41 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Psychiatric_Nursing_Care_Hour_Req-105_41.htm"
 }

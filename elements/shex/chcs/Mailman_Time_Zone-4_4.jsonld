@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mailman_Time_Zone-4_4",
   "description": "CHCS Mailman_Time_Zone-4_4 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mailman_Time_Zone-4_4.htm"
 }

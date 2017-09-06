@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Kg_Site_Parameters-100250_9",
   "description": "CHCS Kg_Site_Parameters-100250_9 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kg_Site_Parameters-100250_9.htm"
 }

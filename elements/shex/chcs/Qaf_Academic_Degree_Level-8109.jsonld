@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qaf_Academic_Degree_Level-8109",
   "description": "CHCS Qaf_Academic_Degree_Level-8109 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qaf_Academic_Degree_Level-8109.htm"
 }

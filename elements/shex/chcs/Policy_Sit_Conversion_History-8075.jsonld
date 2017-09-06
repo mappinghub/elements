@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Policy_Sit_Conversion_History-8075",
   "description": "contains the history of SIT conversions, where policies (and their claims) are re-pointed to different insurance companies",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Policy_Sit_Conversion_History-8075.htm"
 }

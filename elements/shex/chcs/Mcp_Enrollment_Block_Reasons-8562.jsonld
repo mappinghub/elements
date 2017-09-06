@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcp_Enrollment_Block_Reasons-8562",
   "description": "CHCS Mcp_Enrollment_Block_Reasons-8562 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcp_Enrollment_Block_Reasons-8562.htm"
 }

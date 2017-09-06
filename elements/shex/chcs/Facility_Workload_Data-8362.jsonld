@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Facility_Workload_Data-8362",
   "description": "CHCS Facility_Workload_Data-8362 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Facility_Workload_Data-8362.htm"
 }

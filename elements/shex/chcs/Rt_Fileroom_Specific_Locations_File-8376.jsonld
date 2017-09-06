@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Rt_Fileroom_Specific_Locations_File-8376",
   "description": "CHCS Rt_Fileroom_Specific_Locations_File-8376 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Rt_Fileroom_Specific_Locations_File-8376.htm"
 }

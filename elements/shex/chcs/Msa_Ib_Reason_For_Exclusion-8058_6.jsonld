@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Msa_Ib_Reason_For_Exclusion-8058_6",
   "description": "CHCS Msa_Ib_Reason_For_Exclusion-8058_6 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Msa_Ib_Reason_For_Exclusion-8058_6.htm"
 }

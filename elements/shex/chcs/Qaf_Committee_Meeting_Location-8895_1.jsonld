@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qaf_Committee_Meeting_Location-8895_1",
   "description": "CHCS Qaf_Committee_Meeting_Location-8895_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qaf_Committee_Meeting_Location-8895_1.htm"
 }

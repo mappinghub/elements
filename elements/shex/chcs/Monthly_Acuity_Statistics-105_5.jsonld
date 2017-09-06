@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Monthly_Acuity_Statistics-105_5",
   "description": "CHCS Monthly_Acuity_Statistics-105_5 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Monthly_Acuity_Statistics-105_5.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Coding_Type-8930",
   "description": "The data stored in this schema contains the medical terminology code soruce types",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Coding_Type-8930.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Coding_Type-8930.jsonld"

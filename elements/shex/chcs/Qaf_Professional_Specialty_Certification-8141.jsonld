@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qaf_Professional_Specialty_Certification-8141",
   "description": "CHCS Qaf_Professional_Specialty_Certification-8141 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qaf_Professional_Specialty_Certification-8141.htm"
 }

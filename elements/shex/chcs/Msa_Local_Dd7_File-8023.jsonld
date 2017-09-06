@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Msa_Local_Dd7_File-8023",
   "description": "CHCS Msa_Local_Dd7_File-8023 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Msa_Local_Dd7_File-8023.htm"
 }

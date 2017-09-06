@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Auto_Instrument_Sample_Id_Format-8733",
   "description": "CHCS Auto_Instrument_Sample_Id_Format-8733 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Auto_Instrument_Sample_Id_Format-8733.htm"
 }

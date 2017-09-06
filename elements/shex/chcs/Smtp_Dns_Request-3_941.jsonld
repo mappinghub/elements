@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Smtp_Dns_Request-3_941",
   "description": "CHCS Smtp_Dns_Request-3_941 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Smtp_Dns_Request-3_941.htm"
 }

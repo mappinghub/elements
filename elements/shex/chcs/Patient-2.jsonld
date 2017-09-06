@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Patient-2",
   "description": "The data stored in this schema contains patient demographic data and pointers to medical data about the patient",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Patient-2.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Patient-2.jsonld"

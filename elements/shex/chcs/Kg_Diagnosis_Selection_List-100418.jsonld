@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Kg_Diagnosis_Selection_List-100418",
   "description": "CHCS Kg_Diagnosis_Selection_List-100418 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kg_Diagnosis_Selection_List-100418.htm"
 }

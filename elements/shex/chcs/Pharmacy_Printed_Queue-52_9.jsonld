@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Pharmacy_Printed_Queue-52_9",
   "description": "CHCS Pharmacy_Printed_Queue-52_9 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Printed_Queue-52_9.htm"
 }

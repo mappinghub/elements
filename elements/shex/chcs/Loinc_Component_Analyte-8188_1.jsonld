@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Loinc_Component_Analyte-8188_1",
   "description": "CHCS Loinc_Component_Analyte-8188_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Loinc_Component_Analyte-8188_1.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Ps_Obsolete_Ndcs-8254_03",
   "description": "CHCS Ps_Obsolete_Ndcs-8254_03 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ps_Obsolete_Ndcs-8254_03.htm"
 }

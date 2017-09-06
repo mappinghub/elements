@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Clinical_History-8810",
   "description": "The data stored in this schema contains the drug allergy information for each patient",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Clinical_History-8810.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Clinical_History-8810.jsonld"

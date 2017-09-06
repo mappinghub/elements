@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Control_Audit_Transaction-54_4",
   "description": "CHCS Control_Audit_Transaction-54_4 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Control_Audit_Transaction-54_4.htm"
 }

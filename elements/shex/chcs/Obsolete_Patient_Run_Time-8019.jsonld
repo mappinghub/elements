@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Obsolete_Patient_Run_Time-8019",
   "description": "CHCS Obsolete_Patient_Run_Time-8019 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Obsolete_Patient_Run_Time-8019.htm"
 }

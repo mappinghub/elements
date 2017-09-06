@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Meprs_Billing_Category-8066",
   "description": "CHCS Meprs_Billing_Category-8066 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Meprs_Billing_Category-8066.htm"
 }

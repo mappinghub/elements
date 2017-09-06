@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Lab_Shipping_Batch-8719",
   "description": "CHCS Lab_Shipping_Batch-8719 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Lab_Shipping_Batch-8719.htm"
 }

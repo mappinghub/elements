@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Deers_Response_Format-8907_1",
   "description": "CHCS Deers_Response_Format-8907_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Deers_Response_Format-8907_1.htm"
 }

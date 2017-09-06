@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qaf_Appointment_Role_Position-8130",
   "description": "CHCS Qaf_Appointment_Role_Position-8130 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qaf_Appointment_Role_Position-8130.htm"
 }

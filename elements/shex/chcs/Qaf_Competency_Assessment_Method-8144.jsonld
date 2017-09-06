@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qaf_Competency_Assessment_Method-8144",
   "description": "CHCS Qaf_Competency_Assessment_Method-8144 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qaf_Competency_Assessment_Method-8144.htm"
 }

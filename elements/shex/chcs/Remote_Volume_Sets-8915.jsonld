@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Remote_Volume_Sets-8915",
   "description": "CHCS Remote_Volume_Sets-8915 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Remote_Volume_Sets-8915.htm"
 }

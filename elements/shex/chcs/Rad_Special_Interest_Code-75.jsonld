@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Rad_Special_Interest_Code-75",
   "description": "CHCS Rad_Special_Interest_Code-75 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Rad_Special_Interest_Code-75.htm"
 }

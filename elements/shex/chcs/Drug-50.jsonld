@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Drug-50",
   "description": "The data stored in this schema holds the information related to each drug that can be used to fill a prescription",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Drug-50.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Drug-50.jsonld"

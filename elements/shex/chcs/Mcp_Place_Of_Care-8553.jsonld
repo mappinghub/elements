@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcp_Place_Of_Care-8553",
   "description": "CHCS Mcp_Place_Of_Care-8553 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcp_Place_Of_Care-8553.htm"
 }

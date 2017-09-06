@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcd_Historic_Dmis_Id-8186",
   "description": "CHCS Mcd_Historic_Dmis_Id-8186 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcd_Historic_Dmis_Id-8186.htm"
 }

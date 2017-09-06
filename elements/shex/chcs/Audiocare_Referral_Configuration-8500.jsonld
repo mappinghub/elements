@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Audiocare_Referral_Configuration-8500",
   "description": "CHCS Audiocare_Referral_Configuration-8500 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Audiocare_Referral_Configuration-8500.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Ohi_Carrier_Coverage_Type_Code-8096",
   "description": "CHCS Ohi_Carrier_Coverage_Type_Code-8096 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ohi_Carrier_Coverage_Type_Code-8096.htm"
 }

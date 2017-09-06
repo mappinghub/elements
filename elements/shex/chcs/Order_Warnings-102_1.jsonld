@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Order_Warnings-102_1",
   "description": "The data stored in this schema contains the various types of warnings which the system currently handles for order entry",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Order_Warnings-102_1.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Order_Warnings-102_1.jsonld"

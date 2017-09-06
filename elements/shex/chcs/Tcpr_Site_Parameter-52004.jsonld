@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Tcpr_Site_Parameter-52004",
   "description": "CHCS Tcpr_Site_Parameter-52004 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Tcpr_Site_Parameter-52004.htm"
 }

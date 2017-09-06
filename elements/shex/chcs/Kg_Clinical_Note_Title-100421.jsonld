@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Kg_Clinical_Note_Title-100421",
   "description": "CHCS Kg_Clinical_Note_Title-100421 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kg_Clinical_Note_Title-100421.htm"
 }

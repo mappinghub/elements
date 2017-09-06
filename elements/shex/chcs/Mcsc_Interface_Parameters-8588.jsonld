@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcsc_Interface_Parameters-8588",
   "description": "CHCS Mcsc_Interface_Parameters-8588 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcsc_Interface_Parameters-8588.htm"
 }

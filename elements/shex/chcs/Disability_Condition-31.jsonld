@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Disability_Condition-31",
   "description": "The data stored in this schema contains a table of disability conditions used in the Patient Administration process",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Disability_Condition-31.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Disability_Condition-31.jsonld"

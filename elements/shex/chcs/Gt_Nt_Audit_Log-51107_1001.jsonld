@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Gt_Nt_Audit_Log-51107_1001",
   "description": "CHCS Gt_Nt_Audit_Log-51107_1001 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gt_Nt_Audit_Log-51107_1001.htm"
 }

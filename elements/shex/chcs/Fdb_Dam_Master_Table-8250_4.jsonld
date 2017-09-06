@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Fdb_Dam_Master_Table-8250_4",
   "description": "The data stored in this schema holds the FDB DAM Master table",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fdb_Dam_Master_Table-8250_4.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Fdb_Dam_Master_Table-8250_4.jsonld"

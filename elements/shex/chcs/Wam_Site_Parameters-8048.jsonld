@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Wam_Site_Parameters-8048",
   "description": "CHCS Wam_Site_Parameters-8048 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Wam_Site_Parameters-8048.htm"
 }

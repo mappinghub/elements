@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Apv_Industry_Cpt-8151_3",
   "description": "CHCS Apv_Industry_Cpt-8151_3 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Apv_Industry_Cpt-8151_3.htm"
 }

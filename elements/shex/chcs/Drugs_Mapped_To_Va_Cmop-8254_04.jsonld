@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Drugs_Mapped_To_Va_Cmop-8254_04",
   "description": "CHCS Drugs_Mapped_To_Va_Cmop-8254_04 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Drugs_Mapped_To_Va_Cmop-8254_04.htm"
 }

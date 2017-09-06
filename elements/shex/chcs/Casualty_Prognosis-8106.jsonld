@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Casualty_Prognosis-8106",
   "description": "The data stored in this schema contains codes that describe the casualty prognosis of a patient.",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Casualty_Prognosis-8106.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Casualty_Prognosis-8106.jsonld"

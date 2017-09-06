@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Personnel_Category_Code-8521_2",
   "description": "CHCS Personnel_Category_Code-8521_2 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Personnel_Category_Code-8521_2.htm"
 }

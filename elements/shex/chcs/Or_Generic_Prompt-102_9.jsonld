@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Or_Generic_Prompt-102_9",
   "description": "CHCS Or_Generic_Prompt-102_9 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Or_Generic_Prompt-102_9.htm"
 }

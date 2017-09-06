@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Oib_Rate_Table_Driver-8058_3",
   "description": "CHCS Oib_Rate_Table_Driver-8058_3 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Oib_Rate_Table_Driver-8058_3.htm"
 }

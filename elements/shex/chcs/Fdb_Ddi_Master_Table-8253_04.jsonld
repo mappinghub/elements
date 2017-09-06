@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Fdb_Ddi_Master_Table-8253_04",
   "description": "CHCS Fdb_Ddi_Master_Table-8253_04 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fdb_Ddi_Master_Table-8253_04.htm"
 }

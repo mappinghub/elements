@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Pediatric_Nursing_Care_Hour_Req-105_35",
   "description": "CHCS Pediatric_Nursing_Care_Hour_Req-105_35 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pediatric_Nursing_Care_Hour_Req-105_35.htm"
 }

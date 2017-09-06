@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Kp_Generic_Outpt_Phr_Interface-101920",
   "description": "CHCS Kp_Generic_Outpt_Phr_Interface-101920 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kp_Generic_Outpt_Phr_Interface-101920.htm"
 }

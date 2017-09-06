@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mtf_Reference_Lab-8719_3",
   "description": "CHCS Mtf_Reference_Lab-8719_3 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mtf_Reference_Lab-8719_3.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Dd7_Inpatient_Sort_File-8020",
   "description": "CHCS Dd7_Inpatient_Sort_File-8020 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Dd7_Inpatient_Sort_File-8020.htm"
 }

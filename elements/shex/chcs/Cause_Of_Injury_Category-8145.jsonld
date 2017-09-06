@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Cause_Of_Injury_Category-8145",
   "description": "CHCS Cause_Of_Injury_Category-8145 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cause_Of_Injury_Category-8145.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Kw_Icdb_Parameters-111555",
   "description": "CHCS Kw_Icdb_Parameters-111555 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Kw_Icdb_Parameters-111555.htm"
 }

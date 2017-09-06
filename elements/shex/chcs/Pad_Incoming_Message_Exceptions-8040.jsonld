@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Pad_Incoming_Message_Exceptions-8040",
   "description": "CHCS Pad_Incoming_Message_Exceptions-8040 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pad_Incoming_Message_Exceptions-8040.htm"
 }

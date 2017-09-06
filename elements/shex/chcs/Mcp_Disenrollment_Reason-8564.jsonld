@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcp_Disenrollment_Reason-8564",
   "description": "CHCS Mcp_Disenrollment_Reason-8564 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcp_Disenrollment_Reason-8564.htm"
 }

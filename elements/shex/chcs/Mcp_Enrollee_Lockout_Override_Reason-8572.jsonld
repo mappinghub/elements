@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mcp_Enrollee_Lockout_Override_Reason-8572",
   "description": "CHCS Mcp_Enrollee_Lockout_Override_Reason-8572 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mcp_Enrollee_Lockout_Override_Reason-8572.htm"
 }

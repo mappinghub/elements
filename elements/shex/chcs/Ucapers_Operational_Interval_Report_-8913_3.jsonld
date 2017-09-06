@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Ucapers_Operational_Interval_Report_-8913_3",
   "description": "CHCS Ucapers_Operational_Interval_Report_-8913_3 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ucapers_Operational_Interval_Report_-8913_3.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Pediatric_Personnel_Req-105_36",
   "description": "CHCS Pediatric_Personnel_Req-105_36 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pediatric_Personnel_Req-105_36.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Smtp_Security_Text-3_932",
   "description": "CHCS Smtp_Security_Text-3_932 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Smtp_Security_Text-3_932.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:RcmasOse_Health_Care_Provider_Holding-8004",
   "description": "CHCS RcmasOse_Health_Care_Provider_Holding-8004 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/RcmasOse_Health_Care_Provider_Holding-8004.htm"
 }

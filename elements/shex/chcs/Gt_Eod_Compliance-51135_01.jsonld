@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Gt_Eod_Compliance-51135_01",
   "description": "CHCS Gt_Eod_Compliance-51135_01 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gt_Eod_Compliance-51135_01.htm"
 }

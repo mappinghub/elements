@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Tpc_Collection_Source_Analysis-8093",
   "description": "CHCS Tpc_Collection_Source_Analysis-8093 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Tpc_Collection_Source_Analysis-8093.htm"
 }

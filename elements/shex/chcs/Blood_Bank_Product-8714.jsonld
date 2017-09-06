@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Blood_Bank_Product-8714",
   "description": "CHCS Blood_Bank_Product-8714 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Blood_Bank_Product-8714.htm"
 }

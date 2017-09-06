@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Data_Element_Value_Map-4090_1",
   "description": "CHCS Data_Element_Value_Map-4090_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Data_Element_Value_Map-4090_1.htm"
 }

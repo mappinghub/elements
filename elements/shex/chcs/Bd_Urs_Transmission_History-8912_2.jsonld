@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Bd_Urs_Transmission_History-8912_2",
   "description": "CHCS Bd_Urs_Transmission_History-8912_2 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Bd_Urs_Transmission_History-8912_2.htm"
 }

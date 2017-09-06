@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Oib_Ndc_Rate_Table-8255",
   "description": "CHCS Oib_Ndc_Rate_Table-8255 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Oib_Ndc_Rate_Table-8255.htm"
 }

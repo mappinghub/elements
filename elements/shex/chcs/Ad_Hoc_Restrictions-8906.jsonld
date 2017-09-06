@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Ad_Hoc_Restrictions-8906",
   "description": "CHCS Ad_Hoc_Restrictions-8906 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ad_Hoc_Restrictions-8906.htm"
 }

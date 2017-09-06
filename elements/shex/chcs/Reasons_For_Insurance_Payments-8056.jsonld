@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Reasons_For_Insurance_Payments-8056",
   "description": "CHCS Reasons_For_Insurance_Payments-8056 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Reasons_For_Insurance_Payments-8056.htm"
 }

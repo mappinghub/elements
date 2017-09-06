@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Procedure",
   "description": "The data stored in this schema describes a medical procedure performed by a medical provider on a patient",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Procedure.jsonld"
 }

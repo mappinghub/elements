@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Origin_Of_Order-111",
   "description": "The data stored in this schema contains data on where a medical order originated",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Origin_Of_Order-111.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Origin_Of_Order-111.jsonld"

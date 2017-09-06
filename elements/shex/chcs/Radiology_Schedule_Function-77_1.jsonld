@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Radiology_Schedule_Function-77_1",
   "description": "CHCS Radiology_Schedule_Function-77_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Radiology_Schedule_Function-77_1.htm"
 }

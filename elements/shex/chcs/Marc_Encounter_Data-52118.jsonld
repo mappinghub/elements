@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Marc_Encounter_Data-52118",
   "description": "CHCS Marc_Encounter_Data-52118 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Marc_Encounter_Data-52118.htm"
 }

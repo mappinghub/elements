@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Mailing_Address_Quality_Code-8521_6",
   "description": "CHCS Mailing_Address_Quality_Code-8521_6 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Mailing_Address_Quality_Code-8521_6.htm"
 }

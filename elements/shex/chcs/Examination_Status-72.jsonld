@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Examination_Status-72",
   "description": "The data stored in this schema contains the statuses that an imaging exam may be in as it is processed",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Examination_Status-72.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Examination_Status-72.jsonld"

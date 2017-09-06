@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Psafdb_Adimmstr_Adimtbl_Adimmono-8253_01",
   "description": "CHCS Psafdb_Adimmstr_Adimtbl_Adimmono-8253_01 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Psafdb_Adimmstr_Adimtbl_Adimmono-8253_01.htm"
 }

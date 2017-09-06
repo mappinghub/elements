@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Geographic_Location-5",
   "description": "The data stored in this schema contains a list of all fifty states and abbreviations, state codes, and county information",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Geographic_Location-5.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Geographic_Location-5.jsonld"

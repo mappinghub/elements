@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Pharmacy_Mtf_Parameters-59_8",
   "description": "CHCS Pharmacy_Mtf_Parameters-59_8 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Mtf_Parameters-59_8.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Smtp_Routing_Table-3_933",
   "description": "CHCS Smtp_Routing_Table-3_933 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Smtp_Routing_Table-3_933.htm"
 }

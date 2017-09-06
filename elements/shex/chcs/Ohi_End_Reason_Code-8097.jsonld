@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Ohi_End_Reason_Code-8097",
   "description": "CHCS Ohi_End_Reason_Code-8097 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ohi_End_Reason_Code-8097.htm"
 }

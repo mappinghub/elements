@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qaf_Prof_Organization__Comm_Activity_Level-8142",
   "description": "CHCS Qaf_Prof_Organization__Comm_Activity_Level-8142 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qaf_Prof_Organization__Comm_Activity_Level-8142.htm"
 }

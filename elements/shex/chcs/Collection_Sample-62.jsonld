@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Collection_Sample-62",
   "description": "The data stored in this schema contains a dictionary for collection samples and describes the collection sample requirements specific to a laboratory",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Collection_Sample-62.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Collection_Sample-62.jsonld"

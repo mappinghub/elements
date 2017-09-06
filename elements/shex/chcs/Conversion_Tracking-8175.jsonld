@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Conversion_Tracking-8175",
    "description": "a log of the various conversion routines which the site has already installed",
    "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Conversion_Tracking-8175.htm"
 }

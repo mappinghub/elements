@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Fetal_Presentation_Type-8183",
   "description": "CHCS Fetal_Presentation_Type-8183 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fetal_Presentation_Type-8183.htm"
 }

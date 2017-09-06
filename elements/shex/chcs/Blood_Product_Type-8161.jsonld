@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Blood_Product_Type-8161",
   "description": "The data stored in this schema contains types of blood products currently available from the Defense Blood Standard System",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Blood_Product_Type-8161.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Blood_Product_Type-8161.jsonld"

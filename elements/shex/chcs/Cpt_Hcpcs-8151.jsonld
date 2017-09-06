@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Cpt_Hcpcs-8151",
   "description": "CHCS Cpt_Hcpcs-8151 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Cpt_Hcpcs-8151.htm"
 }

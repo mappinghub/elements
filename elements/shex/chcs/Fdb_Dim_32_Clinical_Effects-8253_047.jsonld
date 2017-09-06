@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Fdb_Dim_32_Clinical_Effects-8253_047",
   "description": "The data stored in this schema contains the definition of DDI clinical effects",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Fdb_Dim_32_Clinical_Effects-8253_047.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Fdb_Dim_32_Clinical_Effects-8253_047.jsonld"

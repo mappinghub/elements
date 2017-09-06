@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Provider_Merge_Batch_File-6_7777",
   "description": "CHCS Provider_Merge_Batch_File-6_7777 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Provider_Merge_Batch_File-6_7777.htm"
 }

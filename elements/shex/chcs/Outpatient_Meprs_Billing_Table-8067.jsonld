@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Outpatient_Meprs_Billing_Table-8067",
   "description": "CHCS Outpatient_Meprs_Billing_Table-8067 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Outpatient_Meprs_Billing_Table-8067.htm"
 }

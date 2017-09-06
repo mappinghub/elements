@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Hipaa_Provider_Taxonomy-8171",
   "description": "CHCS Hipaa_Provider_Taxonomy-8171 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Hipaa_Provider_Taxonomy-8171.htm"
 }

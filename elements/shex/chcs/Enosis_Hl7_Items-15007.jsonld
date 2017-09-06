@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Enosis_Hl7_Items-15007",
   "description": "CHCS Enosis_Hl7_Items-15007 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Enosis_Hl7_Items-15007.htm"
 }

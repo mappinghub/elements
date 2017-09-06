@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Barcode_Character_Set-8910",
   "description": "CHCS Barcode_Character_Set-8910 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Barcode_Character_Set-8910.htm"
 }

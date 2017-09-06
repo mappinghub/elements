@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Snomed_Concept_Status-8188_13",
   "description": "CHCS Snomed_Concept_Status-8188_13 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Snomed_Concept_Status-8188_13.htm"
 }

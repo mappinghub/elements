@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Record_Tracking_System_Parameters-195_4",
   "description": "CHCS Record_Tracking_System_Parameters-195_4 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Record_Tracking_System_Parameters-195_4.htm"
 }

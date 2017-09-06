@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:New_Provider_Candidate_Search-8181_9",
   "description": "CHCS New_Provider_Candidate_Search-8181_9 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/New_Provider_Candidate_Search-8181_9.htm"
 }

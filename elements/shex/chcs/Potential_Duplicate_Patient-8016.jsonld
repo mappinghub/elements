@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Potential_Duplicate_Patient-8016",
   "description": "CHCS Potential_Duplicate_Patient-8016 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Potential_Duplicate_Patient-8016.htm"
 }

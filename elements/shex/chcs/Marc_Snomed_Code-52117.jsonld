@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Marc_Snomed_Code-52117",
   "description": "CHCS Marc_Snomed_Code-52117 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Marc_Snomed_Code-52117.htm"
 }

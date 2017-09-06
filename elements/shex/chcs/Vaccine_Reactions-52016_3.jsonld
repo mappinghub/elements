@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Vaccine_Reactions-52016_3",
   "description": "CHCS Vaccine_Reactions-52016_3 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Vaccine_Reactions-52016_3.htm"
 }

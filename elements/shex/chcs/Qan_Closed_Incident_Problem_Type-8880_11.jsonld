@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qan_Closed_Incident_Problem_Type-8880_11",
   "description": "CHCS Qan_Closed_Incident_Problem_Type-8880_11 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qan_Closed_Incident_Problem_Type-8880_11.htm"
 }

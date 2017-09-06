@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Deers_Eligibility_Override_Code-8900_4",
   "description": "CHCS Deers_Eligibility_Override_Code-8900_4 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Deers_Eligibility_Override_Code-8900_4.htm"
 }

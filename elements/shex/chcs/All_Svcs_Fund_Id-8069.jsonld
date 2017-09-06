@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:All_Svcs_Fund_Id-8069",
   "description": "CHCS All_Svcs_Fund_Id-8069 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/All_Svcs_Fund_Id-8069.htm"
 }

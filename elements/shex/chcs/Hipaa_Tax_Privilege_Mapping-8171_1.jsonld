@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Hipaa_Tax_Privilege_Mapping-8171_1",
   "description": "CHCS Hipaa_Tax_Privilege_Mapping-8171_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Hipaa_Tax_Privilege_Mapping-8171_1.htm"
 }

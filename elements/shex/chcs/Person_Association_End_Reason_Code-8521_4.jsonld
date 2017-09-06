@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Person_Association_End_Reason_Code-8521_4",
   "description": "CHCS Person_Association_End_Reason_Code-8521_4 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Person_Association_End_Reason_Code-8521_4.htm"
 }

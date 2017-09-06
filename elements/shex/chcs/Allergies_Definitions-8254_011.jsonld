@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Allergies_Definitions-8254_011",
     "description": "The data in this schema provides the actual definitions used by the system to do clinical screening",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Allergies_Definitions-8254_011.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Allergies_Definitions-8254_011.jsonld"

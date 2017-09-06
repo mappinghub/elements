@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Codes-757_02",
   "description": "The data stored in this schema contains the Classification Codes from various standards organizations",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Codes-757_02.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Codes-757_02.jsonld"

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Provider-6",
   "description": "The data stored in this schema contains personal and professional data about the people who provide patient care services at this site",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Provider-6.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Provider-6.jsonld"

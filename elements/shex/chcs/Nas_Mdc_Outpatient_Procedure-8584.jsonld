@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Nas_Mdc_Outpatient_Procedure-8584",
   "description": "CHCS Nas_Mdc_Outpatient_Procedure-8584 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Nas_Mdc_Outpatient_Procedure-8584.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Interface_Formatter_Task-4000_1",
   "description": "CHCS Interface_Formatter_Task-4000_1 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Interface_Formatter_Task-4000_1.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Statement_Of_Eligibility-8539",
   "description": "CHCS Statement_Of_Eligibility-8539 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Statement_Of_Eligibility-8539.htm"
 }

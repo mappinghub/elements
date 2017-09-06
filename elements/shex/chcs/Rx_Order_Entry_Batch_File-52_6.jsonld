@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Rx_Order_Entry_Batch_File-52_6",
   "description": "CHCS Rx_Order_Entry_Batch_File-52_6 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Rx_Order_Entry_Batch_File-52_6.htm"
 }

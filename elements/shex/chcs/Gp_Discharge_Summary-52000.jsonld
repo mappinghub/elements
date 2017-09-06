@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Gp_Discharge_Summary-52000",
   "description": "CHCS Gp_Discharge_Summary-52000 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gp_Discharge_Summary-52000.htm"
 }

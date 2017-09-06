@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Psafdb_Hiclseqnotbl_Hic-8250",
   "description": "CHCS Psafdb_Hiclseqnotbl_Hic-8250 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Psafdb_Hiclseqnotbl_Hic-8250.htm"
 }

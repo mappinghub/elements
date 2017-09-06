@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Non_Booked_Appointments-44_8",
   "description": "CHCS Non_Booked_Appointments-44_8 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Non_Booked_Appointments-44_8.htm"
 }

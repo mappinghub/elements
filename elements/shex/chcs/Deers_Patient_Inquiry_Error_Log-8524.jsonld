@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Deers_Patient_Inquiry_Error_Log-8524",
   "description": "CHCS Deers_Patient_Inquiry_Error_Log-8524 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Deers_Patient_Inquiry_Error_Log-8524.htm"
 }

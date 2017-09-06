@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Appointment_Type-44_5",
   "description": "The data stored in this schema contains the appointment types. It is customized by each MTF to contain the appointment types used at each facility",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Appointment_Type-44_5.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Appointment_Type-44_5.jsonld"

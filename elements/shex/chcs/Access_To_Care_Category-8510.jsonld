@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Access_To_Care_Category-8510",
   "description": "The data stored in this schema lists all of the possible access to healthcare categories",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Access_To_Care_Category-8510.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Access_To_Care_Category-8510.jsonld"

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Deers_Transmission_Queue-8908",
   "description": "CHCS Deers_Transmission_Queue-8908 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Deers_Transmission_Queue-8908.htm"
 }

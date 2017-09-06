@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Qan_Incident_Review_Cycle-8880_15",
   "description": "CHCS Qan_Incident_Review_Cycle-8880_15 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Qan_Incident_Review_Cycle-8880_15.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
   },
+  "type": "chcss:Zip_Code-5_8002",
   "description": "The data stored in this schema has the US postal mail zipcodes by city and state",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Zip_Code-5_8002.jsonld"
 }

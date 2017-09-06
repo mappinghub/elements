@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Unit_Ship_Id-8111",
   "description": "CHCS Unit_Ship_Id-8111 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Unit_Ship_Id-8111.htm"
 }

@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Pharmacy_Patient_Safety_Parameters-58_01",
   "description": "CHCS Pharmacy_Patient_Safety_Parameters-58_01 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Patient_Safety_Parameters-58_01.htm"
 }

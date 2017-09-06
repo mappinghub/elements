@@ -5,6 +5,7 @@
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
    },
+  "type": "chcss:Msa_Correction_Reasons-8051",
   "description": "CHCS Msa_Correction_Reasons-8051 element",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Msa_Correction_Reasons-8051.htm"
 }
