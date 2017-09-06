@@ -3,5 +3,7 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   }
-},
+   },
+  "description": "CHCS Ap_Conversion_Utility-8702_3 element",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Ap_Conversion_Utility-8702_3.htm"
+}
