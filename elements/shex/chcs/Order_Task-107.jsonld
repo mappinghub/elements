@@ -4,8 +4,9 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   },
+  },
   "type": "chcss:Order_Task-107",
-  "description": "CHCS Order_Task-107 element",
-  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Order_Task-107.htm"
+  "description": "The data stored in this element tracks each task that orders create. One order may produce one or many tasks (eg. a medication QID produces four tasks per day)",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Order_Task-107.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Order_Task-107.jsonld"
 }
