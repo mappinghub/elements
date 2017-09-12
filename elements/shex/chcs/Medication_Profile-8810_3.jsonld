@@ -4,8 +4,9 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   },
+  },
   "type": "chcss:Medication_Profile-8810_3",
-  "description": "CHCS Medication_Profile-8810_3 element",
-  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Medication_Profile-8810_3.htm"
+  "description": "The data in this element describes a patient's medication profile, such as the current medications, the medication start and stop dates, the order type, the medication frequency and the duration, as well as the name of the HCP who is ordering the medication",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Medication_Profile-8810_3.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Medication_Profile-8810_3.jsonld"
 }
