@@ -4,8 +4,9 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   },
+  },
   "type": "chcss:Pharmacy_Patient-55",
-  "description": "CHCS Pharmacy_Patient-55 element",
-  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Patient-55.htm"
+  "description": "The data stored in this element holds, for each pharmacy patient, information that is typically of interest only to the pharmacy",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Pharmacy_Patient-55.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Pharmacy_Patient-55.jsonld"
 }
