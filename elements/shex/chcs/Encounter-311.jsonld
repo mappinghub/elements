@@ -6,7 +6,7 @@
       "email": "glenna.hokukahu@gmail.com"
   },
   "type": "chcss:Encounter-311",
-  "description": "The data stored in this schema contains data about patient encounter events",
+  "description": "The data stored in this schema contains data about patient encounter with medical staff events",
   "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Encounter-311.htm",
   "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Encounter-311.jsonld"
 }
