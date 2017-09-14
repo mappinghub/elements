@@ -4,8 +4,9 @@
   "author": {
       "name": "Glenna Mayo",
       "email": "glenna.hokukahu@gmail.com"
-   },
+  },
   "type": "chcss:Gp_Consult_Result-52003",
-  "description": "CHCS Gp_Consult_Result-52003 element",
-  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gp_Consult_Result-52003.htm"
+  "description": "The data stored in this schema contains the results of a scheduled or an unscheduled consult",
+  "documentation": "http://htmlpreview.github.com/?https://github.com/rdf-pipeline/translators/blob/master/data/schema/chcs-nc/Gp_Consult_Result-52003.htm",
+  "sampleData": "https://github.com/rdf-pipeline/translators/blob/master/data/samples/Gp_Consult_Result-52003.jsonld"
 }
