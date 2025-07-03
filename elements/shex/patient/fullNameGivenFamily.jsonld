@@ -1,0 +1,9 @@
+{
+  "@context": "https://raw.githubusercontent.com/mappinghub/elements/master/ont/context.jsonld",
+  "name": "fullNameGivenFamily",
+  "description": "Full name of a person, in the form 'GivenName FamilyName'.",
+  "type": "xsd:string",
+  "skos:related": [ "shex:familyName",
+                    "shex:givenName",
+                    "shex:fullName" ]
+}
